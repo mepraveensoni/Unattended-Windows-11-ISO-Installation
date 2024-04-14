@@ -85,3 +85,5 @@ This repository contains an unattend.xml file for configuring an unattended inst
     1. Control Panel View: Set to Icons view
     2. Control Panel Icon Size: Set to normal
     3. Password Never Expires: Set the user's password to never expire
+   
+  - Please rename the XML file as autounattend.xml and then burn that into the ISO in the root, and then use that ISO image to install windows 11.
